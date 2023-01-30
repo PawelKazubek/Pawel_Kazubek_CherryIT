@@ -1,0 +1,19 @@
+ID 202_2022
+
+Tytuł: Brak możliwości zaznaczenia check boxa do newslettera
+
+Krok 1. Wejdź na stronę www.strona.pl (przykładowa, nieistniejąca, wymyślona do tego zgłoszenia)
+
+Krok 2. Następnie wejdź w Create an account
+
+Krok 3. Na stronie Create an account nie można zaznaczyć check boxa – Sign up for our newsletter
+
+Stan oczekiwany: możliwość zaznaczenia check boxa – Sign up for our newsletter
+
+Stan zastany: brak możliwości zaznaczenia check boxa – Sign up for our newsletter
+
+Środowisko: Windows 10 Home Wersja 21H1 64-Bit
+
+Przeglądarka: Chrome Wersja 104.0.5112.102 (Oficjalna wersja) (64-bitowa)
+
+Załączonik: Printscreen z zaznaczeniem miejsca z bugiem.
